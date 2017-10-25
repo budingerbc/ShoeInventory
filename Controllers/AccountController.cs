@@ -18,6 +18,7 @@ namespace ShoeInventory.Controllers
     [Authorize]
     public class AccountController : Controller
     {
+        private readonly ShoeInventoryContext _db;
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IEmailSender _emailSender;
@@ -31,7 +32,8 @@ namespace ShoeInventory.Controllers
             IOptions<IdentityCookieOptions> identityCookieOptions,
             IEmailSender emailSender,
             ISmsSender smsSender,
-            ILoggerFactory loggerFactory)
+            ILoggerFactory loggerFactory,
+            ShoeInventoryContext db)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -39,6 +41,7 @@ namespace ShoeInventory.Controllers
             _emailSender = emailSender;
             _smsSender = smsSender;
             _logger = loggerFactory.CreateLogger<AccountController>();
+            _db = db;
         }
 
         //

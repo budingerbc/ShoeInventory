@@ -9,3 +9,4 @@
 /Users/Guest/Desktop/ShoeInventory/ShoeInventory/obj/Debug/netcoreapp1.1/ShoeInventory.AssemblyInfo.cs
 /Users/Guest/Desktop/ShoeInventory/ShoeInventory/obj/Debug/netcoreapp1.1/ShoeInventory.dll
 /Users/Guest/Desktop/ShoeInventory/ShoeInventory/obj/Debug/netcoreapp1.1/ShoeInventory.pdb
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/obj/Debug/netcoreapp1.1/ShoeInventory.csproj.CoreCompileInputs.cache
