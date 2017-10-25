@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/bin/Debug/netcoreapp1.1/ShoeInventory.db
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/bin/Debug/netcoreapp1.1/ShoeInventory.deps.json
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/bin/Debug/netcoreapp1.1/ShoeInventory.runtimeconfig.json
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/bin/Debug/netcoreapp1.1/ShoeInventory.runtimeconfig.dev.json
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/bin/Debug/netcoreapp1.1/ShoeInventory.dll
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/bin/Debug/netcoreapp1.1/ShoeInventory.pdb
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/obj/Debug/netcoreapp1.1/ShoeInventory.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/obj/Debug/netcoreapp1.1/ShoeInventory.AssemblyInfo.cs
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/obj/Debug/netcoreapp1.1/ShoeInventory.dll
+/Users/Guest/Desktop/ShoeInventory/ShoeInventory/obj/Debug/netcoreapp1.1/ShoeInventory.pdb
